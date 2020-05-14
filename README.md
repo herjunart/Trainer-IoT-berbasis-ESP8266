@@ -21,3 +21,5 @@ Anda tetap dapat melakukan praktikum tanpa memiliki Trainer kit dengan menyiapka
 - Motor Servo
 - Resistor 1k
 - Aplikasi Blynk
+- Project board
+- Kabel jumper
