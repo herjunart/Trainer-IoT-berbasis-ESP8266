@@ -23,3 +23,10 @@ Anda tetap dapat melakukan praktikum tanpa memiliki Trainer kit dengan menyiapka
 - Aplikasi Blynk
 - Project board
 - Kabel jumper
+- Arduino IDE
+
+Selain itu juga siapkan library arduino:
+- ESP8266
+- DHT11
+- LiquidCrystal_I2C
+- RFID
